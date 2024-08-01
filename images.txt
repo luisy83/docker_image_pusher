@@ -1,1 +1,2 @@
-dparrott/kafka-exporter
+docker.io/bonree/smartgate:2.6.2
+docker.io/bonree/smartagent:1.0
