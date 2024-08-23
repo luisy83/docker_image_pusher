@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.34.3
+public.ecr.aws/dynatrace/dynatrace-operator:v1.2.2
