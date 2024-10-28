@@ -1,1 +1,1 @@
-public.ecr.aws/dynatrace/dynatrace-operator:1.2.2
+gcr.io/k8s-minikube/kicbase:v0.0.45
