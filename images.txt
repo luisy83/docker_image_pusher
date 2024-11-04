@@ -1,2 +1,7 @@
-apache/rocketmq:4.9.4
-apache/rocketmq-exporter:0.0.2
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.8.2
+docker.io/bitnami/mongodb:7.0.5-debian-11-r6
+otel/opentelemetry-collector:0.102.1
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+grafana/grafana:9.5.2
+apachepulsar/pulsar-all:3.1.1
+mysql:8.0.30
