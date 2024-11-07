@@ -1,1 +1,1 @@
-oharbor/prepare:v2.12.0-rc1
+harbor/prepare:v2.12.0-rc1
