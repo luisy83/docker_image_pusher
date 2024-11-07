@@ -1,1 +1,1 @@
-docker.io/bitnami/rabbitmq:3.12.0-debian-11-r0
+goharbor/prepare:v2.12.0
