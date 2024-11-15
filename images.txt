@@ -1,1 +1,16 @@
-ollama/ollama
+bitnami/jmx-exporter:0.20.0
+rmohr/activemq:5.15.9
+zookeeper:3.5
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+quay.io/prometheuscommunity/elasticsearch-exporter:v1.5.0
+curlimages/curl:latest
+mongo:6.0.8
+percona/mongodb_exporter:0.39
+prom/mysqld-exporter:v0.14.0
+openresty/openresty:1.17.8.2-5-alpine-fat
+fluent/fluent-bit:1.9
+postgres:14.1
+quay.io/prometheuscommunity/postgres-exporter:v0.11.0
+zookeeper:3.9.1
+rabbitmq:3.11.14-management
+quay.io/prometheus/node-exporter:v1.2.2
