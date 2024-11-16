@@ -1,1 +1,1 @@
-docker.bonree.com/agent/smartgate:3.2.0
+docker.bonree.com/agent/smartgate:3.2.0-alpha5-amd64
