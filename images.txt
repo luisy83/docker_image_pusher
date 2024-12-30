@@ -1,1 +1,1 @@
-docker.io/calico/apiserver:v3.29.1
+docker.io/calico/typha:v3.29.1
