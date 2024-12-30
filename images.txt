@@ -1,1 +1,2 @@
-docker.io/calico/kube-controllers:v3.29.1
+docker.io/calico/csi:v3.29.1
+docker.io/calico/node-driver-registrar:v3.29.1
