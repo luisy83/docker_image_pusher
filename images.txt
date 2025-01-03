@@ -1,1 +1,4 @@
-docker.bonree.com/agent/smartgate:3.2.4
+docker.io/grafana/grafana:11.3.1
+otel/opentelemetry-collector-contrib:0.114.0
+quay.io/prometheus/prometheus:v3.0.0
+opensearchproject/opensearch:2.18.0
