@@ -1,1 +1,1 @@
-opensearchproject/opensearch:2.18.0
+docker.bonree.com/agent/smartgate:3.2.3
