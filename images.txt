@@ -1,1 +1,4 @@
-docker.bonree.com/agent/smartgate:3.2.3
+quay.io/external_storage/local-volume-provisioner:v2.3.2
+ghcr.io/chaos-mesh/chaos-mesh:v2.7.0
+ghcr.io/chaos-mesh/chaos-daemon:v2.7.0
+ghcr.io/chaos-mesh/chaos-dashboard:v2.7.0
