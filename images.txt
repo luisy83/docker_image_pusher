@@ -1,5 +1,1 @@
-jaegertracing/all-in-one:1.57
-quay.io/prometheus/prometheus:v2.52.0
-otel/opentelemetry-collector-contrib:0.102.1
-postgres:16.3
-opensearchproject/opensearch:latest
+ealen/echo-server:0.9.2
