@@ -1,4 +1,1 @@
-dynatrace/easytravel-nginx
-dynatrace/easytravel-mongodb
-dynatrace/easytravel-backend
-dynatrace/easytravel-frontend
+prom/prometheus:v3.2.1
