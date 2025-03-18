@@ -1,1 +1,1 @@
-prom/prometheus:v3.2.1
+quay.io/prometheus/alertmanager:0.28.1
