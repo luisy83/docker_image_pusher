@@ -1,1 +1,1 @@
-quay.io/prometheus/alertmanager:v0.28.1
+ghcr.io/chaos-mesh/chaos-mesh:v2.7.1
