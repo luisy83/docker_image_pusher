@@ -1,4 +1,1 @@
-ghcr.io/chaos-mesh/chaos-mesh:v2.7.1
-ghcr.io/chaos-mesh/chaos-daemon:v2.7.1
-ghcr.io/chaos-mesh/chaos-dashboard:v2.7.1
-ghcr.io/chaos-mesh/chaos-coredns:v2.7.1
+docker.bonree.com/agent/smartgate:3.3.0
