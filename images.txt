@@ -1,1 +1,2 @@
-docker.bonree.com/agent/smartgate:3.3.0
+grafana/grafana-enterprise:11.6.0-ubuntu
+grafana/grafana-enterprise
