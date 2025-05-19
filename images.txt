@@ -1,2 +1,1 @@
-grafana/grafana-enterprise:11.6.0-ubuntu
-grafana/grafana-enterprise
+docker.bonree.com/agent/smartgate:3.4.0
