@@ -1,1 +1,1 @@
-docker.bonree.com/agent/smartgate:3.4.0
+docker.bonree.com/agent/smartgate:3.3.0
