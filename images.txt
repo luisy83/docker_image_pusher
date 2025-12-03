@@ -1,1 +1,1 @@
-grafana/grafana:latest
+docker.io/istio/pilot:1.28.0
