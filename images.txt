@@ -1,1 +1,2 @@
-docker.io/mccutchen/go-httpbin:v2.15.0
+docker.bonree.com/agent/smartagent:1.1
+docker.bonree.com/agent/smartgate:3.5.1
